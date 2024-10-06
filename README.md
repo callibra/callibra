@@ -1,6 +1,6 @@
 <h2 align="left">Hi... I'm Ivan 👋</h2>
-<h4 align="left">🚀 • I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest !</h4>
-<h4 align="left">🚀 • I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me !</h4>
+<h4 align="left">🚀 • I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!</h4>
+<h4 align="left">🚀 • I'm open to job opportunities where I can contribute, learn, and grow. If you have a good opportunity that matches my skills and experience, then don't hesitate to contact me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></h4>
 <h2 align="left">Connect with me: 🌏 </h2>
 <h4 align="left">🚀 • You can reach me through : </h4>
 <div style="display: flex; justify-content: center; gap: 10px;">
