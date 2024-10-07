@@ -19,7 +19,7 @@
 </div>
 <h2 align="left">Languages and Tools : 🛠️ </h2>
 <p align="left">
-    <a href="" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,react,vite,expressjs,nodejs,mongodb,git,github,vscode,postman" alt="My Skills" />
     </a>
 </p>
