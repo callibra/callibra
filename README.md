@@ -5,7 +5,7 @@
 <h2 align="left">Connect with me: 🌏 </h2>
 <h4 align="left">🚀 • You can reach me through : </h4>
 <div align="left">
-    <a href="https://ivangjorcev.netlify.app/" title="My Website"><img alt="My Website" src="https://img.shields.io/badge/My%20Website-007BFF?style=for-the-badge&logo=mozilla&logoColor=white" height="30" style="margin-right: 10px;"/></a>
+    <a href="https://ivangjorcev.netlify.app/" title="My Website"><img alt="Website" src="https://img.shields.io/badge/Website-007BFF?style=for-the-badge&logo=mozilla&logoColor=white" height="30" style="margin-right: 10px;"/></a>
     <a href="https://www.linkedin.com/in/ivanivance/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style="margin-right: 10px;"/></a>
     <a href="https://www.upwork.com/freelancers/~01aaee95dd05624997" title="Upwork"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6F2C91?style=for-the-badge&logo=upwork&logoColor=white" height="30" style="margin-right: 10px;"/></a>
     <a href="mailto:gjorcev.ivan@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
@@ -32,27 +32,27 @@
 <div align="left">
    <p>1 • <span align="center">Portfolio Application</span>&nbsp;
     <a href="https://my-portfolio-website-demo.netlify.app" title="My Website">
-        <img src="https://img.shields.io/badge/DEMO-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>2 • <span align="center">Food Order Application</span>&nbsp;
     <a href="https://food-app-w9b7.onrender.com" title="My Website">
-        <img src="https://img.shields.io/badge/DEMO-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>3 • <span align="center">Mentor Token Application</span>&nbsp;
     <a href="###" title="My Website">
-        <img src="https://img.shields.io/badge/DEMO-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>4 • <span align="center">Auth Application</span>&nbsp;
     <a href="###" title="My Website">
-       <img src="https://img.shields.io/badge/DEMO-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+       <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>5 • <span align="center">Tv Application</span>&nbsp;
     <a href="###" title="My Website">
-        <img src="https://img.shields.io/badge/DEMO-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 </div>
@@ -68,6 +68,6 @@
 </p>
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=header" style="width: 100%;"/>
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=435&lines=🚀 Let's+Write+Some+Code 👨‍💻;🚀 Let's+Build+a+New+Project ✨" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=🚀 Let's+Write+Some+Code 👨‍💻;🚀 Let's+Build+a+New+Project ✨" />
 </p>
 <!-- /////////////////////////////////////////////////////////////// Personal repository ////////////////////////////////////////////////////////////////////////////     -->
