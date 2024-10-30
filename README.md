@@ -36,7 +36,7 @@
     </a>
 </p>
 <p>2 • <span align="center">Food Order Application</span>&nbsp;
-    <a href="https://food-app-w9b7.onrender.com" title="My Website">
+    <a href="https://food-app-jy8l.onrender.com" title="Food Order Application">
         <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
