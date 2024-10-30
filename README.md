@@ -31,7 +31,7 @@
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
    <p>1 • <span align="center">Portfolio Application</span>&nbsp;
-    <a href="https://my-portfolio-website-demo.netlify.app" title="My Website">
+    <a href="https://portfolio-app-v1.netlify.app" title="Portfolio Application">
         <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
