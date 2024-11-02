@@ -46,7 +46,7 @@
     </a>
 </p>
 <p>4 • <span align="center">Auth Application</span>&nbsp;
-    <a href="###" title="My Website">
+    <a href="https://auth-app-97qu.onrender.com" title="Auth Application">
        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
