@@ -50,8 +50,8 @@
        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
-<p>5 • <span align="center">Tv Application</span>&nbsp;
-    <a href="###" title="My Website">
+<p>5 • <span align="center">Portfolio Application-2</span>&nbsp;
+    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio Application">
         <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
