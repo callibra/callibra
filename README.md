@@ -41,7 +41,7 @@
     </a>
 </p>
 <p>3 • <span align="center">Mentor Token Application</span>&nbsp;
-    <a href="###" title="My Website">
+    <a href="https://mentor-token.vercel.app" title="Mentor Token Application">
         <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
