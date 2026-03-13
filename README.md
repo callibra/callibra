@@ -59,7 +59,7 @@
 </div>
 <h2 align="left">GitHub Stats : ✈️ </h2>
 <div align="left">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=callibra&layout=compact&show_icons=true&theme=blue-green&title_color=00b3ff%" width="323"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=callibra&show_icons=true&theme=blue-green&title_color=00b3ff%" width="323"/></a>
     &nbsp;
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callibra&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff%" width="323"/></a>
 </div>
