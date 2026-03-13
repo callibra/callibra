@@ -69,6 +69,6 @@
 </p>
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=header" style="width: 100%;"/>
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=🚀 Let's+Write+Some+Code 👨‍💻;🚀 Let's+Build+a+New+Project ✨" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=🚀 Let's+Write+Some+Code 👨‍💻;🚀 Let's+Build+a+New+Project ✨"/>
 </p>
 <!-- /////////////////////////////////////////////////////////////// Personal repository ////////////////////////////////////////////////////////////////////////////     -->
