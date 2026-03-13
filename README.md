@@ -59,7 +59,7 @@
 </div>
 <h2 align="left">GitHub Stats : ✈️ </h2>
 <div align="left">
-    <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=callibra&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" width="450" /></a>
+    <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=callibra&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" width="400" /></a>
     &nbsp;
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callibra&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff%" width="323"/></a>
 </div>
