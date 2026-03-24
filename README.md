@@ -28,7 +28,7 @@
     <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=windows" width="50" height="50" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=server" width="50" height="50" /></a>
 </div>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
