@@ -11,7 +11,7 @@
     <a href="mailto:gjorcev.ivan@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 </div>
 <h2 align="left">Languages and Tools : 🛠️ </h2>
-<div align="left">
+<div align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /></a>
@@ -29,7 +29,7 @@
     <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" /></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /></a>
- <a href="#"><img src="https://skillicons.dev/icons?i=debian" width="50" height="50" /></a>
+ <a href="#"><img src="https://skillicons.dev/icons?i=windows" width="50" height="50" /></a>
 </div>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
