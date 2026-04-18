@@ -12,26 +12,9 @@
 </div>
 <h2 align="left">Languages and Tools : 🛠️ </h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=expressjs" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,react,vite,express,nodejs,mongodb,git,github,vscode,postman,powershell,linux,windows" />
+</p>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
    <p>1 • <span align="center">Portfolio Application</span>&nbsp;
