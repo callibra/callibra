@@ -11,25 +11,26 @@
     <a href="mailto:gjorcev.ivan@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 </div>
 <h2 align="left">Languages and Tools : 🛠️ </h2>
-<div align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /></a>
- <a href="#"><img src="https://skillicons.dev/icons?i=windows" width="50" height="50" /></a>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=expressjs" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=powershell" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" />
 </div>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
