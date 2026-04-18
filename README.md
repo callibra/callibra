@@ -13,7 +13,7 @@
 <h2 align="left">Languages and Tools : 🛠️ </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,react,vite,express,nodejs,mongodb,git,github,vscode,postman,powershell,linux,windows&perline=9" height="88"/>
+a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,react,vite,express,nodejs,mongodb,git,github,vscode,postman,powershell,linux,windows&perline=9" height="88"/></a>
 </p>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
