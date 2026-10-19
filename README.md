@@ -44,14 +44,28 @@
 </p>
 </div>
 <h2 align="left">GitHub Stats : ✈️ </h2>
-<div align="left">
-    <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=callibra&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff%&border_radius=12" width="323"/></a>
-    &nbsp;
-    <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callibra&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff%&border_radius=12" width="323"/></a>
+<div align="center">
+  <a href="https://github.com/callibra">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=callibra&show_icons=true&count_private=true&theme=blue-green&title_color=00BFFF&border_radius=12"
+      height="165"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/callibra">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=callibra&layout=compact&theme=blue-green&title_color=00BFFF&border_radius=12"
+      height="165"
+      alt="Most Used Languages"
+    />
+  </a>
 </div>
-    <br>
+<br/>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=callibra&label=Profile%20views&color=blue&style=flat" alt="Profile views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=callibra&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=header" style="width: 100%;"/>
