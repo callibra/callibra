@@ -43,6 +43,11 @@
         <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
+<p>6 • <span align="center">AutoPilot Automation System</span>&nbsp;
+    <a href="https://github.com/callibra/AutoPilot-Automation-System" title="AutoPilot Automation System">
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+    </a>
+</p>    
 </div>
 <h2 align="left">GitHub Stats : ✈️ </h2>
 <div align="center">
