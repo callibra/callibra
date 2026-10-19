@@ -1,5 +1,6 @@
 <h2 align="left">Hi... I'm Ivan 👋  </h2>
 <h4 align="left">🚀 • I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!</h4>
+<h4 align="left">⚙️ • I develop PowerShell automation scripts to streamline workflows, automate system tasks, and build reliable solutions for efficient system management.</h4>
 <h4 align="left">🚀 • I'm open to job opportunities where I can contribute, learn, and grow. If you have a good opportunity that matches my skills and experience, then don't hesitate to contact me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/></h4>
 <a href="#"><img src="pro.gif" width="100%" height="155px" align="center"/></a>
 <h2 align="left">Connect with me: 🌏 </h2>
@@ -61,12 +62,6 @@
   </a>
 </div>
 <br/>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=callibra&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=header" style="width: 100%;"/>
    <img src=https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80%20Let%27s+Write+Some+Code%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80%20Let%27s+Build+a+New+Project%20%E2%9C%A8>
