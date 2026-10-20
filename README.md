@@ -18,8 +18,8 @@
 </p>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
-<p>1 • <span align="center">Portfolio App</span>&nbsp;
-<a href="https://portfolio-app-v1.netlify.app" title="Portfolio App">
+<p>1 • <span align="center">Portfolio Web App</span>&nbsp;
+<a href="https://portfolio-app-v1.netlify.app" title="Portfolio Web App">
     <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
 </a>
 <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp" title="View Code">
@@ -27,8 +27,8 @@
 </a>
 </p>
 
-<p>2 • <span align="center">Food Order App</span>&nbsp;
-    <a href="https://food-app-jy8l.onrender.com" title="Food Order App">
+<p>2 • <span align="center">Food Order Web App</span>&nbsp;
+    <a href="https://food-app-jy8l.onrender.com" title="Food Order Web App">
       <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/FoodApp" title="View Code">
@@ -36,8 +36,8 @@
     </a>
 </p>
 
-<p>3 • <span align="center">Mentor Token App</span>&nbsp;
-    <a href="https://mentor-token.vercel.app" title="Mentor Token App">
+<p>3 • <span align="center">Mentor Token Web App</span>&nbsp;
+    <a href="https://mentor-token.vercel.app" title="Mentor Token Web App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MentorToken" title="View Code">
@@ -45,8 +45,8 @@
     </a>
 </p>
 
-<p>4 • <span align="center">Auth App</span>&nbsp;
-    <a href="https://auth-app-97qu.onrender.com" title="Auth App">
+<p>4 • <span align="center">Auth Web App</span>&nbsp;
+    <a href="https://auth-app-97qu.onrender.com" title="Auth Web App">
        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/AuthApp" title="View Code">
@@ -54,8 +54,8 @@
     </a>
 </p>
 
-<p>5 • <span align="center">Portfolio App 2</span>&nbsp;
-    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio App 2">
+<p>5 • <span align="center">Portfolio Web App 2</span>&nbsp;
+    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio Web App 2">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp-2" title="View Code">
@@ -72,8 +72,8 @@
     </a>
 </p>
 
-<p>7 • <span align="center">App Doownloads</span>&nbsp;
-    <a href="https://js-website.ct.ws/App-Downloads/" title="App Doownloads">
+<p>7 • <span align="center">Doownloads Web App</span>&nbsp;
+    <a href="https://js-website.ct.ws/App-Downloads/" title="Doownloads Web App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/JavaScript-Examples/tree/main/JS-WebSite/App-Downloads" title="View Code">
@@ -81,8 +81,8 @@
     </a>
 </p>
 
-<p>8 • <span align="center">Online Radio App</span>&nbsp;
-    <a href="https://js-website.ct.ws/Online-Radio/" title="Online Radio App">
+<p>8 • <span align="center">Online Radio Web App</span>&nbsp;
+    <a href="https://js-website.ct.ws/Online-Radio/" title="Online Radio Web App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/JavaScript-Examples/tree/main/JS-WebSite/Online-Radio" title="View Code">
