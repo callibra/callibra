@@ -47,7 +47,17 @@
     <a href="https://github.com/callibra/AutoPilot-Automation-System" title="AutoPilot Automation System">
         <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
     </a>
-</p>    
+</p>  
+<p>7 • <span align="center">App Doownloads</span>&nbsp;
+    <a href="https://js-website.ct.ws/App-Downloads/" title="App Doownloads">
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+    </a>
+</p>   
+<p>8 • <span align="center">Online Radio</span>&nbsp;
+    <a href="https://js-website.ct.ws/Online-Radio/" title="Online Radio">
+        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+    </a>
+</p>       
 </div>
 <h2 align="left">GitHub Stats : ✈️ </h2>
 <div align="center">
