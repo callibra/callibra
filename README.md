@@ -62,7 +62,7 @@
     <a href="https://github.com/callibra/AutoPilot-Automation-System" title="AutoPilot Automation System">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
     </a>
-        <a href="https://github.com/callibra/JavaScript-Examples/tree/main/Online-Radio" title="View Code">
+        <a href="https://github.com/callibra/AutoPilot-Automation-System" title="View Code">
         <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>  
