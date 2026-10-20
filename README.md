@@ -1,6 +1,6 @@
 <h2 align="left">Hi... I'm Ivan 👋  </h2>
 <h4 align="left">🚀 • I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!</h4>
-<h4 align="left">⚙️ • I develop PowerShell automation scripts to streamline workflows, automate system tasks, and build reliable solutions for efficient system management.</h4>
+<h4 align="left">🚀 • I develop PowerShell automation scripts to streamline workflows, automate system tasks, and build reliable solutions for efficient system management.</h4>
 <h4 align="left">🚀 • I'm open to job opportunities where I can contribute, learn, and grow. If you have a good opportunity that matches my skills and experience, then don't hesitate to contact me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/></h4>
 <a href="#"><img src="pro.gif" width="100%" height="155px" align="center"/></a>
 <h2 align="left">Connect with me: 🌏 </h2>
@@ -18,8 +18,8 @@
 </p>
 <h2 align="left">Projects : 🏗️ </h2>
 <div align="left">
-<p>1 • <span align="center">Portfolio Application</span>&nbsp;
-<a href="https://portfolio-app-v1.netlify.app" title="Portfolio Application">
+<p>1 • <span align="center">Portfolio App</span>&nbsp;
+<a href="https://portfolio-app-v1.netlify.app" title="Portfolio App">
     <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
 </a>
 <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp" title="View Code">
@@ -27,8 +27,8 @@
 </a>
 </p>
 
-<p>2 • <span align="center">Food Order Application</span>&nbsp;
-    <a href="https://food-app-jy8l.onrender.com" title="Food Order Application">
+<p>2 • <span align="center">Food Order App</span>&nbsp;
+    <a href="https://food-app-jy8l.onrender.com" title="Food Order App">
       <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/FoodApp" title="View Code">
@@ -36,8 +36,8 @@
     </a>
 </p>
 
-<p>3 • <span align="center">Mentor Token Application</span>&nbsp;
-    <a href="https://mentor-token.vercel.app" title="Mentor Token Application">
+<p>3 • <span align="center">Mentor Token App</span>&nbsp;
+    <a href="https://mentor-token.vercel.app" title="Mentor Token App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MentorToken" title="View Code">
@@ -45,8 +45,8 @@
     </a>
 </p>
 
-<p>4 • <span align="center">Auth Application</span>&nbsp;
-    <a href="https://auth-app-97qu.onrender.com" title="Auth Application">
+<p>4 • <span align="center">Auth App</span>&nbsp;
+    <a href="https://auth-app-97qu.onrender.com" title="Auth App">
        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/AuthApp" title="View Code">
@@ -54,8 +54,8 @@
     </a>
 </p>
 
-<p>5 • <span align="center">Portfolio Application-2</span>&nbsp;
-    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio Application">
+<p>5 • <span align="center">Portfolio App 2</span>&nbsp;
+    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio App 2">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp-2" title="View Code">
@@ -81,8 +81,8 @@
     </a>
 </p>
 
-<p>8 • <span align="center">Online Radio</span>&nbsp;
-    <a href="https://js-website.ct.ws/Online-Radio/" title="Online Radio">
+<p>8 • <span align="center">Online Radio App</span>&nbsp;
+    <a href="https://js-website.ct.ws/Online-Radio/" title="Online Radio App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/JavaScript-Examples/tree/main/JS-WebSite/Online-Radio" title="View Code">
