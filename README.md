@@ -54,8 +54,8 @@
     </a>
 </p>
 
-<p>5 • <span align="center">Portfolio Web App 2</span>&nbsp;
-    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio Web App 2">
+<p>5 • <span align="center">Portfolio 2 Web App</span>&nbsp;
+    <a href="https://portfolio-app-v2.netlify.app" title="Portfolio 2 Web App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp-2" title="View Code">
@@ -72,8 +72,8 @@
     </a>
 </p>
 
-<p>7 • <span align="center">Doownloads Web App</span>&nbsp;
-    <a href="https://js-website.ct.ws/App-Downloads/" title="Doownloads Web App">
+<p>7 • <span align="center">Downloads Web App</span>&nbsp;
+    <a href="https://js-website.ct.ws/App-Downloads/" title="Downloads Web App">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="24" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/JavaScript-Examples/tree/main/JS-WebSite/App-Downloads" title="View Code">
