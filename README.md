@@ -20,44 +20,69 @@
 <div align="left">
    <p>1 • <span align="center">Portfolio Application</span>&nbsp;
     <a href="https://portfolio-app-v1.netlify.app" title="Portfolio Application">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
+    </a>
+           <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>2 • <span align="center">Food Order Application</span>&nbsp;
     <a href="https://food-app-jy8l.onrender.com" title="Food Order Application">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+      <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
+    </a>
+        <a href="https://github.com/callibra/MERN-Projects/tree/main/FoodApp" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>3 • <span align="center">Mentor Token Application</span>&nbsp;
     <a href="https://mentor-token.vercel.app" title="Mentor Token Application">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
+    </a>
+        <a href="https://github.com/callibra/MentorToken" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>4 • <span align="center">Auth Application</span>&nbsp;
     <a href="https://auth-app-97qu.onrender.com" title="Auth Application">
-       <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+       <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
+    </a>
+        <a href="https://github.com/callibra/MERN-Projects/tree/main/AuthApp" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>5 • <span align="center">Portfolio Application-2</span>&nbsp;
     <a href="https://portfolio-app-v2.netlify.app" title="Portfolio Application">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
+    </a>
+        <a href="https://github.com/callibra/MERN-Projects/tree/main/PortfolioApp-2" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>
 <p>6 • <span align="center">AutoPilot Automation System</span>&nbsp;
     <a href="https://github.com/callibra/AutoPilot-Automation-System" title="AutoPilot Automation System">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
+    </a>
+        <a href="https://github.com/callibra/JavaScript-Examples/tree/main/Online-Radio" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
     </a>
 </p>  
 <p>7 • <span align="center">App Doownloads</span>&nbsp;
     <a href="https://js-website.ct.ws/App-Downloads/" title="App Doownloads">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
     </a>
-</p>   
+    <a href="https://github.com/callibra/JavaScript-Examples/tree/main/JS-WebSite/App-Downloads" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
+    </a>
+</p>
+
 <p>8 • <span align="center">Online Radio</span>&nbsp;
     <a href="https://js-website.ct.ws/Online-Radio/" title="Online Radio">
-        <img src="https://img.shields.io/badge/Preview-3A76F0?logo=shadcnui&logoColor=fff" height="20" align="center"/>
+        <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="20" align="center"/>
     </a>
-</p>       
+    <a href="https://github.com/callibra/JavaScript-Examples/tree/main/JS-WebSite/Online-Radio" title="View Code">
+        <img src="https://img.shields.io/badge/Code-238636?logo=github&logoColor=fff" height="20" align="center"/>
+    </a>
+</p>
 </div>
 <h2 align="left">GitHub Stats : ✈️ </h2>
 <div align="center">
