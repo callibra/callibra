@@ -2,7 +2,7 @@
 <h4 align="left">🚀 • I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!</h4>
 <h4 align="left">🚀 • I develop PowerShell automation scripts to streamline workflows, automate system tasks, and build reliable solutions for efficient system management.</h4>
 <h4 align="left">🚀 • I manage DevOps infrastructure, Linux LAMP servers, virtual machines, and Windows Server environments to streamline deployments, automate system administration, and ensure reliable, secure, and efficient IT operations.</h4>
-<h4 align="left">🚀 • Open to job opportunities to contribute, learn, and grow. If my skills and experience match your needs, feel free to contact me!<img> src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/></h4>
+<h4 align="left">🚀 • Open to job opportunities to contribute, learn, and grow. If my skills and experience match your needs, feel free to contact me!<img. src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/></h4>
 <a href="#"><img src="pro.gif" width="100%" height="155px" align="center"/></a>
 <h2 align="left">Connect with me: 🌏 </h2>
 <h4 align="left">🚀 • You can reach me through : </h4>
