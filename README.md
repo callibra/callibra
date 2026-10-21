@@ -1,8 +1,8 @@
 <h2 align="left">Hi... I'm Ivan 👋  </h2>
-<h4 align="left">🚀 • I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!</h4>
-<h4 align="left">🚀 • Develop PowerShell scripts to automate workflows and streamline system administration.</h4>
-<h4 align="left">🚀 • Manage DevOps, Linux LAMP, VMs, and Windows Server, focusing on automation, security, and reliable IT operations.</h4>
-<h4 align="left">🚀 • Open to job opportunities to contribute, learn, and grow. If my skills and experience match your needs, feel free to contact me! 
+<h4 align="left">🚀 • I'm a MERN Stack Developer passionate about building modern, scalable web applications while exploring new technologies, frameworks, and development practices.</h4>
+<h4 align="left">🚀 • Develop PowerShell scripts to automate workflows, optimize system processes, minimize repetitive tasks, and improve efficiency in system administration.</h4>
+<h4 align="left">🚀 • Manage DevOps workflows, Linux/LAMP environments, virtual machines, and Windows Server, focusing on automation, security, performance, troubleshooting, and reliable IT operations.</h4>
+<h4 align="left">🚀 • Open to new career opportunities where I can contribute my skills, collaborate with talented teams, take on new challenges, and continue learning and growing professionally. If my experience aligns with your needs, feel free to contact me!
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/></h4>
 <a href="#"><img src="pro.gif" width="100%" height="155px" align="center"/></a>
 <h2 align="left">Connect with me: 🌏 </h2>
