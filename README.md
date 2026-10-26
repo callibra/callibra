@@ -66,7 +66,7 @@
 </p>
 
 <p>6 • <span align="center">AutoPilot Automation System</span>&nbsp;
-    <a href="https://github.com/callibra/AutoPilot-Automation-System" title="AutoPilot Automation System">
+    <a href="https://js-website.ct.ws/Gallery/" title="AutoPilot Automation System">
         <img src="https://img.shields.io/badge/Preview-2563EB?logo=googlechrome&logoColor=fff" height="77" style="vertical-align: middle;"/>
     </a>
     <a href="https://github.com/callibra/AutoPilot-Automation-System" title="View Code">
